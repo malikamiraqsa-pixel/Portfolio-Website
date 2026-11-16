@@ -173,7 +173,7 @@ export default function Home() {
 
           <div className="flex items-center gap-3">
             <a
-              href="/Zara_Malik_ATS_CV.pdf"
+              href="/Portfolio-Website/Zara_Malik_ATS_CV.pdf"
               download="Zara_Malik_ATS_CV.pdf"
               target="_blank"
               rel="noreferrer"
@@ -534,7 +534,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-4 text-sm text-slate-600 sm:px-6 lg:flex-row lg:px-8 dark:text-slate-300">
           <p>© 2026 Zara Malik. All rights reserved.</p>
           <a
-            href="/Zara_Malik_ATS_CV.pdf"
+            href="/Portfolio-Website/Zara_Malik_ATS_CV.pdf"
             download="Zara_Malik_ATS_CV.pdf"
             target="_blank"
             rel="noreferrer"
